@@ -26,15 +26,15 @@ I am a Postdoctoral Fellow and Research Assistant Professor at the [School of Ma
 
 # Publications
 
-* **Jin, C.**, Wang, Z., Zhou, W., & Fu, S. (2026). Hidden middle governance reduces antibiotic residue health risks and food loss in aquatic supply chains. *iScience*, 29(3), 115097. (JCR Q1)
+* **Jin, C.**, Wang, Z., Zhou, W., & Fu, S. (2026). Hidden middle governance reduces antibiotic residue health risks and food loss in aquatic supply chains. *iScience*, 29(3), 115097. 
 
-* **Jin, C.**, Qi, X., Wang, J., Chen, L., Chen, J., & Yin, H. (2025). Identifying Key Drivers of Foodborne Diseases in Zhejiang, China: A Machine Learning Approach. *Foods*, 14(16), 2857. (JCR Q1)
+* **Jin, C.**, Qi, X., Wang, J., Chen, L., Chen, J., & Yin, H. (2025). Identifying Key Drivers of Foodborne Diseases in Zhejiang, China: A Machine Learning Approach. *Foods*, 14(16), 2857. 
 
 * **Jin, C.**, Levi, R., Liang, Q., Renegar, N., Springs, S., Zhou, J., & Zhou, W. (2021). Testing at the source: Analytics-enabled risk-based sampling of food supply chains in China. *Management Science*, 67(5), 2985–2996.
 
 * **Jin, C.**, Levi, R., Liang, Q., & Zhou, J. (2021). Food safety inspection and the adoption of traceability in aquatic wholesale markets: A game-theoretic model and empirical evidence. *Journal of Integrative Agriculture*, 20(10), 2807–2819.
 
-* **Jin, C.**, Bouzembrak, Y., Zhou, J., Liang, Q., van den Bulk, L.M., Gavai, A., Liu, N., van den Heuvel, L.J., Hoenderdaal, W., & Marvin, H.J. (2020). Big Data in food safety — A review. *Current Opinion in Food Science*, 36, 24–32. (JCR Q1)
+* **Jin, C.**, Bouzembrak, Y., Zhou, J., Liang, Q., van den Bulk, L.M., Gavai, A., Liu, N., van den Heuvel, L.J., Hoenderdaal, W., & Marvin, H.J. (2020). Big Data in food safety — A review. *Current Opinion in Food Science*, 36, 24–32. 
 
 # Awards
 
